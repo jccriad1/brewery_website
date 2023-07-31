@@ -82,7 +82,7 @@ function popup12() {
 }
 
 function popup13() {
-    CreativaPopup.create('Feel free to DM me <font class="contactding" onclick="allahm109kd(); allahm109kd2();" color="#FF0000">z7Joel#9999</font> &#10084<br> <font style="color: #696969; font-size: smaller;"> or join my discord server <a href="https://discord.gg/xUbSVehW" style="color: #ADD8E6;">https://discord.gg/xUbSVehW</a> </font>', 'Discord', '', {
+    CreativaPopup.create('Feel free to DM me <font class="contactding" onclick="allahm109kd(); allahm109kd2();" color="#FF0000">Loyd Abi#8569</font> &#10084<br> <font style="color: #696969; font-size: smaller;"> or join my discord server <a href="https://discord.gg/xUbSVehW" style="color: #ADD8E6;">https://discord.gg/xUbSVehW</a> </font>', 'Discord', '', {
         titleColor: '#6ffcff',
         textColor: '#b0b0b0'
     });
